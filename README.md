@@ -5,7 +5,7 @@ html
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chatbot Using NLP</title>
+    <title>Chatbot Using Natural-Language-Processing(NLP)</title>
 </head>
 <body>
     <h1>Chatbot Using NLP</h1>
