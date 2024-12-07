@@ -8,7 +8,7 @@ html
     <title>Chatbot Using Natural-Language-Processing(NLP)</title>
 </head>
 <body>
-    <h1>Chatbot Using NLP</h1>
+    <h1>Chatbot Using Natural-Language-Processing(NLP)</h1>
     <h2>Overview</h2>
     <p>
         This project implements a chatbot using Natural Language Processing (NLP) techniques. The chatbot is designed to understand user intents and provide appropriate responses based on predefined patterns and responses. It utilizes the <code>nltk</code> library for natural language processing, <code>scikit-learn</code> for machine learning, and <code>streamlit</code> for creating an interactive web interface.
